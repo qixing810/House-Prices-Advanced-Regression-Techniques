@@ -1,6 +1,6 @@
 ![](images/housesbanner.png)
 
-Authors: [Qixing Li](https://qixing810.github.io/)
+Author: [Qixing Li](https://qixing810.github.io/)
 
 Date: August 23, 2018
 
@@ -19,7 +19,7 @@ The purpose of this project is to gain some insight of the house prices trend by
 
 
 
-**Credits**
+**Reference**
 
 1. Pedro Marcelino: Comprehensive Data Exploration With Python, 
 https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
